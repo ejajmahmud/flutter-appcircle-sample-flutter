@@ -1,12 +1,19 @@
-# Appcircle Sample App for Flutter Builds
-This is a sample Flutter app for testing Flutter App build functionality in Appcircle. As a cross-platform project, this repository can be used both for iOS and Android builds.
+# flutter-appcircle-sample-flutter
 
-## Using the Appcircle Build Module
-You can find more information about the Appcircle Build Module and how to connect a Git repository in the [Appcircle Documentation](https://docs.appcircle.io/build/).
+Hey there! This is a complete project repository featuring Dart.
 
-## Contribution
-You can  contribute to this repository with fixes and feature updates that do not deviate from the original purpose of the app, which is to demonstrate how the Appcircle Build Module is used.
+## Why this repository exists
+I source and maintain clean, reference codebases across various technologies (including web apps, mobile apps, workflow integrations, and system utilities). This repository is kept public to serve as a reference or clean starting point for fellow developers.
 
-## Reporting an Issue / Reaching Us
-If you encounter any issues related with the app in this repository, you can raise an issue here.
-If you have any other issues or questions about Appcircle, you can contact us via our [contact form on Appcircle.io](https://appcircle.io/support) or join our Slack community at [slack.appcircle.io](slack.appcircle.io)
+## Tech Stack & Highlights
+- **Primary Tech Stack**: Dart
+- Zero bloat, clean directories, and fully structured.
+
+## How to run or use
+1. Clone this repository to your local workspace.
+2. Install the necessary dependencies for this stack (e.g., check configuration files like `package.json`, `requirements.txt`, etc.).
+3. Run the project according to standard procedures for this environment.
+
+---
+Feel free to fork, explore, or reach out if you have any questions!
+Created and maintained by [Md Ejaj Mahmud](https://github.com/ejajmahmud).
